@@ -114,7 +114,7 @@ if "conversation_context" not in st.session_state:
 # =============================
 # CONFIG
 # =============================
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://medassist-xr-1.onrender.com"
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 groq_client = Groq(api_key=GROQ_API_KEY)
 
