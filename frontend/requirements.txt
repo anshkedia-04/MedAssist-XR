@@ -1,9 +1,8 @@
-fastapi==0.104.1
-uvicorn==0.24.0
-pydantic==2.5.0
-python-multipart==0.0.6
-streamlit==1.28.1
-requests==2.31.0
-python-dotenv==1.0.0
-groq
-pydantic
+streamlit==1.38.0
+requests
+python-dotenv
+pandas
+numpy
+pydantic==1.10.15
+fastapi==0.110.1
+uvicorn
